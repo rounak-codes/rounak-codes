@@ -1,4 +1,4 @@
-# Rounak Kumar Bag
+# rounak-codes
 <p align = "center">
 <image height=150 src ="https://github.com/rounak-codes/rounak-codes/assets/76109002/9ffe7976-1adf-4a60-b988-ef4da2227ba1" alt="my banner">
 </p>
