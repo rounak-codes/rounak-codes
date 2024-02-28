@@ -3,7 +3,7 @@
 <image height=150 src ="https://github.com/rounak-codes/rounak-codes/assets/76109002/9ffe7976-1adf-4a60-b988-ef4da2227ba1" alt="my banner">
 </p>
 
-# Languages and tools
+## 📚Languages and tools
   <p align = "center">
     <image src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
       <image src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
