@@ -1,6 +1,6 @@
 # rounak-codes
 <p align = "center">
-<image height=150 src ="https://github.com/rounak-codes/rounak-codes/assets/76109002/dd889f18-eea2-4132-97e7-4ed738f2812b" alt="my banner">
+<image height=150 src ="https://github.com/rounak-codes/rounak-codes/assets/76109002/9ffe7976-1adf-4a60-b988-ef4da2227ba1" alt="my banner">
 </p>
   <p align = "left" <span style:"font-weight:bold;","font-size:28"></span>Languages</p>
   <p align = "center">
