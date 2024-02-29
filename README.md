@@ -49,4 +49,3 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
 #
 
 <a href = "https://github.com/rounak-codes/github-readme-stats"><image src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rounak-codes"></a>
-<a href = "https://github.com/tthn0/Spotify-Readme"><image src = "https://spotify-readme-mu-dusky.vercel.app/api" alt="Current Spotify Song"></a>
