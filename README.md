@@ -47,5 +47,9 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
 </p>
 
 #
+<p>
+  <a href = "https://github.com/rounak-codes/github-readme-stats"><image align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rounak-codes"></a>
+    <a href = "https://open.spotify.com/user/5ra6zm733mkmhx3sty5j8yokg"><image align = "right" src = "https://spotifyreadme-khaki.vercel.app/api/spotify"></a>
+</p>
 
-<a href = "https://github.com/rounak-codes/github-readme-stats"><image src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rounak-codes"></a>
+
