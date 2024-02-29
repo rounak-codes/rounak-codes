@@ -47,3 +47,5 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
 </p>
 
 #
+
+[![Rounak's GitHub stats](https://github-readme-stats.vercel.app/api?username=rounak-codes&show_icons=true&theme=transparent)](https://github.com/rounak-codes/github-readme-stats)
