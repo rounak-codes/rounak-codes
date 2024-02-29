@@ -31,7 +31,7 @@
 
 #### 🌐 My Socials
 <p align="center">
-<a href = "www.linkedin.com/in/rounak-kumar-bag-b08b68204"><image src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "https://www.linkedin.com/in/rounak-kumar-bag-b08b68204"><image src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "https://www.reddit.com/user/HighOnIncenseSticks/"><image src = "https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
 <a href = "https://steamcommunity.com/id/x69PaRaDoX69x/"><image src = "https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href = "https://twitter.com/J1shu_"><image src = "https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
