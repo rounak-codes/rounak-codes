@@ -7,7 +7,7 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
   
 ----- 
 #### 📚 Languages I use
-  <p align = "center">
+  <p align = "left">
             <image src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
               <image src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
                   <image src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -19,7 +19,7 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
 
 #### 💼 Libraries I use
 
-<p align="center">
+<p align="left">
 <image src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <image src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 <image src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -29,7 +29,7 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
 #
 
 #### 🛠️ Tools I use
-<p align="center">
+<p align="left">
 <image src = "https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 <image src = "https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
 <image src = "https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon">
@@ -39,7 +39,7 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
 #
 
 #### 🌐 My Socials
-<p align="center">
+<p align="left">
 <a href = "https://www.linkedin.com/in/rounak-kumar-bag-b08b68204"><image src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "https://www.reddit.com/user/HighOnIncenseSticks/"><image src = "https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
 <a href = "https://steamcommunity.com/id/x69PaRaDoX69x/"><image src = "https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
