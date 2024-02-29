@@ -26,6 +26,8 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
 <image src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 </p>
 
+#
+
 #### 🛠️ Tools I use
 <p align="center">
 <image src = "https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
@@ -34,6 +36,8 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
 <image src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
+#
+
 #### 🌐 My Socials
 <p align="center">
 <a href = "https://www.linkedin.com/in/rounak-kumar-bag-b08b68204"><image src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -41,3 +45,5 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
 <a href = "https://steamcommunity.com/id/x69PaRaDoX69x/"><image src = "https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href = "https://twitter.com/J1shu_"><image src = "https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 </p>
+
+#
