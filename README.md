@@ -12,8 +12,8 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
               <image src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
                   <image src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
                     <image src = "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-                        <image src = "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
-                          <image src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+                        <image src = "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge">
+                          <image src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge">
   </p>
                         
 #
@@ -42,9 +42,9 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
 #### 🧑‍🎓Learning
 <p align="left">
 <image src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-<image src = "https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
-<image src = "https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff">
-<image src = "https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white">
+<image src = "https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge">
+<image src = "https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff&style=for-the-badge">
+<image src = "https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white&style=for-the-badge">
 
 #### 🌐 My Socials
 <p align="left">
