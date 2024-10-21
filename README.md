@@ -22,7 +22,7 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
 
 <p align="left">
 <image src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<image src = "https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
+<image src = "https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge">
 <image src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </p>
 
@@ -41,7 +41,7 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
 
 #### 🧑‍🎓Learning
 <p align="left">
-<image src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">">
+<image src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 <image src = "https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
 <image src = "https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff">
 <image src = "https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white">
