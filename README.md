@@ -12,24 +12,25 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
               <image src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
                   <image src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
                     <image src = "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-                      <image src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">           
+                        <image src = "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
+                          <image src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
   </p>
                         
 #
 
-#### 💼 Libraries I use
+#### 💼 Libraries and Frameworks I use
 
 <p align="left">
-<image src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <image src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+<image src = "https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
 <image src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<image src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 </p>
 
 #
 
 #### 🛠️ Tools I use
 <p align="left">
+<image src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <image src = "https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 <image src = "https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
 <image src = "https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon">
@@ -37,6 +38,13 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
 </p>
 
 #
+
+#### 🧑‍🎓Learning
+<p align="left">
+<image src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">">
+<image src = "https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+<image src = "https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff">
+<image src = "https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white">
 
 #### 🌐 My Socials
 <p align="left">
