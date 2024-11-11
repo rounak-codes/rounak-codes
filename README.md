@@ -14,7 +14,7 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
                     <image src = "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
                         <image src = "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge">
                           <image src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge">
-                              <image src = "https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+                              <image src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff">
   </p>
                         
 #
