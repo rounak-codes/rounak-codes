@@ -58,7 +58,7 @@ I am Rounak , an aspiring web developer trying to master my grip on full stack. 
 #
   <a href = "https://github.com/rounak-codes/github-readme-stats"><image height = 150 align="center" src ="https://github-readme-stats.vercel.app/api?username=rounak-codes&show_icons=true&theme=transparent&rank_icon=github"></a>
   <a></a>
-  <a href = "https://github.com/rounak-codes/github-readme-stats"><image height = 150 align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rounak-codes&layout=compact"></a>
+  <a href = "https://github.com/rounak-codes/github-readme-stats"><image height = 150 align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&layout=compact"></a>
 
 ----
 
