@@ -3,7 +3,7 @@
 <image height=150 src ="https://github.com/rounak-codes/rounak-codes/assets/76109002/9ffe7976-1adf-4a60-b988-ef4da2227ba1" alt="my banner">
 </p>
 
-I am Rounak , an aspiring web developer trying to master my grip on full stack. I am proficient in Java and Python and I am currently practising my DSA and problem solving skills on leetcode and hackkerrank. I look to contribute to open source projects and upskill myself.
+I am Rounak , I am a web developer trying to master my grip on full stack. I am proficient in Java and Python and I am currently venturing into DevOps.
   
 ----- 
 #### 📚 Languages I use
