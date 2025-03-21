@@ -60,9 +60,4 @@ I am Rounak , I am a web developer trying to master my grip on full stack. I am 
   <a></a>
   <a href = "https://github.com/rounak-codes/github-readme-stats"><image height = 150 align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rounak-codes&size_weight=0.5&count_weight=0.5&layout=compact"></a>
 
-----
-
-#### 🎵 Listening to
-
-<a href = "https://open.spotify.com/user/5ra6zm733mkmhx3sty5j8yokg"><image align = "center" src = "https://spotifyreadme-khaki.vercel.app/api/spotify"></a>
 
