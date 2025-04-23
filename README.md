@@ -10,7 +10,7 @@ I am Rounak , I am a web developer trying to master my grip on full stack. I am 
   <p align = "left">
             <image src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
               <image src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-                    <image src = "https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff">
+                <image src = "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge">
                           <image src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge">
                               <image src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff">
   </p>
@@ -23,8 +23,9 @@ I am Rounak , I am a web developer trying to master my grip on full stack. I am 
 <image src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 <image src = "https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge">
 <image src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<image src = "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge">
 <image src = "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff">
+<image src = "https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff">
+<image src = "https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=fff">
 </p>
 
 #
