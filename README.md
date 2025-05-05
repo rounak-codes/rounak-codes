@@ -23,7 +23,6 @@ I am Rounak , I am a web developer trying to master my grip on full stack. I am 
 <image src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 <image src = "https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge">
 <image src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<image src = "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff">
 <image src = "https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff">
 <image src = "https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=fff">
 </p>
